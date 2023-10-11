@@ -16,7 +16,11 @@ We need build the model for the demand for shared bikes with the available indep
 # Conclusion:
 
 Train R-squire=0.844
+
 Test R-squire=0.7795
+
 Train Adj-R-squire=0.841
+
 Test Adj-R-squire=0.832
+
 That seems a very good model.
