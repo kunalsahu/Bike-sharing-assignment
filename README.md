@@ -1,7 +1,7 @@
 ## Bike Sharing Assignment
 
 ### Introduction
-we need to build a multi linear regression model to predict the demand for shared bikes.
+We need to build a multi linear regression model to predict the demand for shared bikes.
 
 ### Problem Statement 
 
